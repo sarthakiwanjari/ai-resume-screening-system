@@ -1,5 +1,4 @@
 📄 AI-Based Resume Screening System
-
 An intelligent web application built using Python + Streamlit that analyzes resumes and matches them against job descriptions to generate a skill match score and evaluation report.
 
 🚀 Features
@@ -9,6 +8,7 @@ An intelligent web application built using Python + Streamlit that analyzes resu
 📊 Generates match score (0–100%)
 💡 Provides simple AI-based explanation of candidate suitability
 ⚡ Fast and lightweight Streamlit web interface
+
 🛠️ Tech Stack
 Python 🐍
 Streamlit 🎈
